@@ -1,1 +1,3 @@
-X-CART-UI
+- Run ur mongo first
+- Run ur Solr first
+- open common evaluation controller, and change the global variable as ur need, do the same with common controller.
